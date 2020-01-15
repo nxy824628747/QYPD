@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: spring-4.1.5.jar sqljdbc4.jar ojdbc6.jar sqljdbc4.jar osca
+ rJDBC.jar common-3.2.jar spring-4.1.5.jar Dm7JdbcDriver16.jar Dm7Jdbc
+ Driver16.jar ojdbc6.jar oscarJDBC.jar common-3.2.jar
+Main-Class: com.inspur.approval.Scanner
+
