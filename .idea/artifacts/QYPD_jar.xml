@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="QYPD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QYPD_jar</output-path>
+    <root id="root">
+      <element id="archive" name="QYPD.jar">
+        <element id="module-output" name="QYPD" />
+      </element>
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="project" name="Dm7JdbcDriver16" />
+    </root>
+  </artifact>
+</component>

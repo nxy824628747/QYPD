@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Dm7JdbcDriver16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/Dm7JdbcDriver16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/oscarJDBC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/common-3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/lib/oscarJDBC.jar!/" />
+    </SOURCES>
+  </library>
+</component>
